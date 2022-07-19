@@ -1,0 +1,22 @@
+body {
+    background-color: #FDDADA;
+}
+
+table {
+    margin: 0 auto;
+    width: 350px;
+    height: 700px;
+}
+
+td {
+    width: 10%;
+    height: 5%;
+}
+
+.default {
+    background-color: #fdb2b2;
+}
+
+.stick {
+    background-color: #ff5353;
+}
